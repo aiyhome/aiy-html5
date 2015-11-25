@@ -1,2 +1,2 @@
 # aiy-html5
-one private html5 framework from aiyhome studio
+This is a private html5 framework developed by aiyhome studio.
