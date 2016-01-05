@@ -36,8 +36,7 @@ MLE.init = function(a) {
     MLE.width = a.width || 320;
     MLE.height = a.height || 480;
     MLE.canvas.width = MLE.width;
-    MLE.canvas.height =
-        MLE.height;
+    MLE.canvas.height = MLE.height;
     MLE.wrapper.style.width = MLE.width + "px";
     MLE.wrapper.style.height = MLE.height + "px";
     MLE.context = MLE.canvas.getContext("2d");
